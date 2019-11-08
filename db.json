@@ -2,11 +2,15 @@
   "cliente": [
     {
       "id": 1,
-      "nome": "João"
+      "nome": "João",
+      "endereco": "Rua ABC, nº 1",
+      "telefone": "3465-4123"
     },
     {
       "id": 2,
-      "nome": "Maria"
+      "nome": "Maria",
+      "endereco": "Rua DEF, nº 2",
+      "telefone": "9999-1011"
     }
   ],
   "profile": {
